@@ -1,0 +1,113 @@
+Tarefa básica - Coeficientes Binomiais - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+8!/3!(8-3)!
+
+8!/3!.5!
+
+8.7.6.5! / 3!.5!
+
+8.7.6/3.2.1
+
+336/6
+
+56 = Alternativa B)
+
+
+Ex 02. 
+
+200! / 198!(200 - 198)!
+
+200! / 198!.2!
+
+200.199.198! / 198!.2!
+
+
+200.199/2.1 
+
+39800/2
+
+19900 = Alternativa A)
+
+
+Ex 03. 
+
+
+Ex 04.
+
+R: Soma de 2 termos consecutivos de uma linha: Adiciona-se 1 ao numerador, e o denominador vira o maior da soma: (21/14)
+Percebendo-se que esta opção não consta nas alternativas, lembramos da propriedade dos binomiais complementares, dois coeficientes binomiais são complementares e iguais, se seus numeradores forem iguais e a soma de seus denominadores for igual ao numerador: 
+
+(21/14) = (21/x), em que 14 + x = 21 => x = 21 - 14 => x = 7, logo, (20/13) + (20/14) = (21/14) = (21/7) = Alternativa (C)
+
+Ex 05.
+
+R: Com n se repetindo no denominador, se trata de uma soma da linha n. Tendo uma soma de linhas, podemos constatar que o resultado das somas dos valores que compõem as "n" linhas vão ser potências de 2, ou seja, vão valer 2^n.
+
+Ex 06.
+
+a) 10 ∑ p=0 (10/p)
+
+somatória de 10/p onde p = 0 e varia de 0 até 10
+
+(10/0) + (10/1) + (10/2) + (10/3) + ... + (10/10)
+
+a linha é 2^10 
+
+2^10 = 1024
+
+b) ∑ p=0 até 9 (10/p)
+
+(10/0) + (10/1) + (10/2) + ... + (10/9)
+
+tá faltando o 10/10
+
+linha é 2^10 - (10/10) 
+
+10/10 = 1
+
+1024 - 1
+
+1023
+
+c) ∑ p=2 até 9 (9/p)
+
+(9/2) + (9/3) + (9/4) + ... + (9/9)
+
+a linha é 2^9 = 512
+
+falta 9/1 e 9/2
+
+9/1 = 9
+9/2 = 1
+
+512 - 9 - 1
+512 - 10
+
+502
+
+d) ∑ p=4 até 10 (p/4)
+
+(4/4) + (5/4) + (6/4) + ... + (10/4)
+
+Soma na coluna = (denominador do último termo + 1/k + 1) = (11/5) = 11!/5!6! = 11.10.9.8.7.6!/5.4.3.2.1.6! = 11.10.9.8.7/5.4.3.2.1 = 11.2.3.2.7/2 = 11.2.3.7 = 462
+
+e) ∑ p=5 até 10 (p/5)
+
+(5/5) + (6/5) + (7/5) + ... + (10/5)
+
+Soma na coluna = (denominador do último termo + 1/k + 1) = (11/6) = 11!/6!5! (mesma coisa que o anterior) = 11.10.9.8.7.6!/5.4.3.2.1.6! = 11.10.9.8.7/5.4.3.2.1 = 11.2.3.2.7/2 = 11.2.3.7 = 462
+
+Ex 07. 
+
+R = 9, pois
+
+∑ k = 0 até 9 (9/k) = 512
+
+(9/0) + (9/1) + (9/2) + ... + (9/9)
+
+soma de linha completa
+
+2^9 = 512 = Alternativa (E)
+
