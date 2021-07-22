@@ -1,0 +1,61 @@
+Tarefa básica - Teorema do Binômio - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Sendo o termo geral:
+
+(6/4).1^6-k.(2x²)^k = (6/k)2^k.x²^k, para k = 0, 1, 2,[...], 6.
+
+e 2k = 8 => k = 4,
+
+Logo, substituimos em:
+
+(6/4).2^4.X^8 = 6!/4!.2! . 16 . x^8 = 240x^8 = Alternativa (C)
+
+
+Ex 02. 
+
+Como o desenvolvimento do binômio de Newton gera um polinômio nas variáveis x e y, para saber a soma dos coeficientes deste desenvolvimento, basta fazer x=y=1. 
+
+(14x - 13y)^237 = (14.1 - 13.1)^237 = 1^237 = 1 = Alternativa (B)
+
+Ex 03. 
+
+Tk+1 = (11/k)x^11-k . a^k = 1386x^5
+
+11 - k = 5
+
+k = 6
+
+T6+1 = (11/6)x^11-6 . a^6 = 1386x^5
+
+T7 = (11/6)x^5 . a^6 = 1386x^5
+
+T7 = 11!/6!5! . a^6 = 1386
+
+T7 = 11.10.9.8.7.6!/6!.5! . a^6 = 1386
+
+T7 = 55440/120 a^6 = 1386
+
+462a^6 = 1386
+
+a^6 = 1386/462
+
+a^6 = 3
+
+a = 6^√3 = Alternativa (A)
+
+Ex 04.
+
+
+
+Ex 05.
+
+
+Ex 06.
+
+
+Ex 07. 
+
+
+
