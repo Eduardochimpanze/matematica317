@@ -1,0 +1,61 @@
+Tarefa básica - Teorema do Binômio - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Sendo disponíveis 2 mulheres vice-governadoras para 2 governadores e 4 homens vices para 1 governadora, temos:
+
+2.2 + 1.4 = 8 = (C)
+
+Ex 02.
+
+{3, 4, 5}
+No primeiro algarismo teremos 2 possibilidades: 3 e 4, por conta do número precisar ser menor que 500 e maior que 300;
+No segundo, temos também 2: 3, 4 e 5 menos o que apareceu anteriormente. (4 e 5 se o anterior foi 3, ou 3 e 5 se o anterior for 4.);
+No terceiro, teremos 1: os 2 que sobraram do primeiro número menos o que apareceu anteriormente;
+Assim, temos:
+
+2 . 2 . 1 = 4
+
+Ex 03. 
+
+{3, 4, 5}
+Parecida com a anterior, só há a diferença dos números não precisarem ser distintos(como por exemplo, a possibilidade de "333" ou "444")
+No primeiro algarismo temos, novamente, 2 possibilidades: 3 e 4, por conta do número precisar ser menor que 500 e maior que 300;
+No segundo, temos 3 possibilidades pela indistinção dos algarismos;
+E a mesma coisa acontece no terceiro número, 3 possibilidades;
+Assim, temos:
+
+2 . 3 . 3 = 18 = (E)
+
+Ex 04.
+
+Tendo os homens, com certeza, nas últimas 2 posições, temos um esquema parecido com o seguinte:
+Nos 3 primeiros lugares:
+Primeiro lugar: qualquer uma das 3 mulheres;
+Segundo lugar: qualquer uma das 2 mulheres restantes das 3;
+Terceiro lugar: a mulher restante das 3 menos 2 que já estão colocadas.
+Sendo assim, restam os homens:
+No quarto lugar: qualquer um dos 2 homens;
+E no quinto e último: o homem restante ainda não posicionado.
+Assim, temos:
+
+3 . 2 . 1 . 2 . 1 = 12 filas diferentes possíveis.
+
+Ex 05.
+
+Sendo necessária a alternância entre os meios de transporte, não poderá ser usada o mesmo meio duas vezes entre A e C.
+Então, vamos ter as possibilidades como segue:
+
+AB rodovia, BC ferrovia: 3 rodovias para AB, 2 ferrovias para BC: 3.2 = 6 \
+								           => 6 + 4 = 10 = (B)
+AB ferrovia, BC rodovia: 2 ferrovias para AB, 2 rodovias para BC: 2.2 = 4 / 
+
+Ex 06.
+
+Tendo os 22 jogadores posição marcada, 11 posições e 2 jogadores para cada, temos que, para cada posição, vamos ter 2 variações, logo, temos:
+
+2 . 2 . 2 . 2 . 2 . 2 . 2 . 2 . 2 . 2 . 2 = 2^11 = 2048 = (B).
+
+
+
+
