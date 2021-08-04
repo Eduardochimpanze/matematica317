@@ -1,0 +1,85 @@
+Tarefa básica - Análise Combinatória - Arranjos Simples - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Sabendo que, de A para O temos praticamente as mesmas escolhas de O para B, vamos ter a seguinte situação:
+Utilizarei as letras x, y e z para representar, mais facilmente,os movimentos laterais, verticais e o que seria "para frente", respectivamente.
+Primeiro movimento: 3 escolhas, x, y e z, para pontos diagonais a O.
+O segundo movimento consiste em 2 escolhas, onde as arestas podem se mover para qualquer um dos pontos diagonais ao ponto "O", com a exceção do ponto diagonal que recebeu o primeiro movimento.
+Terceiro movimento: 1 escolha, direto para O, no caso de AO, ou para B, em OB.
+
+Tendo esta situação duas vezes, vamos ter:
+
+3! . 3!
+3.2.1 . 3.2.1 
+6.6 = 36 = Alternativa (E).
+
+Ex 02.
+
+Múltiplos de 5 são números terminados em 0 ou 5, logo, teremos 2 possibilidades:
+
+Terminados em 5:
+Primeiro algarismo: 8 possibilidades, todos os 10 algarismos menos 5 e 0.
+Segundo algarismo: 8 possibilidades, todos os 10 menos 5 e menos o anterior.
+Terceiro algarismo: 1 possibilidade, o número 5.
+
+Terminados em 0:
+Primeiro algarismo: 9 possibilidades, todos os 10 exceto por 0.
+Segundo algarismo: 8 possibilidades, todos os 10 exceto por 0 e o anterior.
+Terceiro algarismo: 1 possibilidade, o número 0.
+
+Sendo assim, temos de somar os 2 caminhos:
+
+Terminados em 5 + Terminados em 0 = 8.8.1 + 9.8.1 = 64 + 72 = 136 = Alternativa (A).
+
+Ex 03. 
+
+Teremos neste, também, 2 caminhos, no primeiro, o primeiro algarismo terá de ser 3 ou 4, que não terá restrições no segundo algarismo, e no segundo, 6, que terá certa restrição.
+
+3 ou 4 no primeiro algarismo:
+Primeiro algarismo: 2 possibilidades, 3 ou 4(0 impossível, 2 e 7 não estão no intervalo entre 30.000 e 65.000 e 6 é um caso a parte.).
+Segundo algarismo: 4 possibilidades, todas menos as anteriores.
+Terceiro algarismo: 3 possibilidades, todas menos as anteriores.
+Quarto algarismo: 2 possibilidades, todas menos as anteriores.
+Quinto algarismo: 1 possibilidade, todas menos as anteriores.
+
+6 no primeiro algarismo:
+Primeiro algarismo: 1 possibilidade, 6.
+Segundo algarismo: 3 possibilidades, todas menos 6, a anterior, e 7. (67.000, por exemplo, não entra no intervalo.)
+Terceiro algarismo: 3 possibilidades, todas menos as anteriores.
+Quarto algarismo: 2 possibilidades, todas menos as anteriores.
+Quinto algarismo: 1 possibilidades, todas menos as anteriores.
+
+Sendo assim, teremos de somar as possibilidades:
+
+3 e 4 no primeiro algarismo + 6 no primeiro algarismo
+2.4.3.2.1 + 1.3.3.2.1 = 48 + 18 = 66 = Alternativa (B).
+
+Ex 04.
+
+Tendo em vista os 5 algarismos distintos, em que 6 é o primeiro e o 7 está em uma das 4 posições restantes, temos 4 caminhos iguais, apenas mudando a posição do 7:
+
+7 na segunda posição:
+Primeiro algarismo: 1 possibilidade, 6. 
+Segundo algarismo, 1 possibilidade, 7. 
+Terceiro algarismo: 8 possibilidades, todas menos 6 e 7. 
+Quarto algarismo: 7 possibilidades, todas menos 6, 7 e a anterior.
+Quinto algarismo: 6 possibilidades, todas menos 6, 7 e as anteriores.
+Isso equivale a: {1, 1, 8, 7, 6}, e, já que 7 é o segundo algarismo (equivalendo a 1 possibilidade), isso quer dizer que os outros caminhos serão:
+7 na terceira posição: {1, 8, 1, 7, 6}
+7 na quarta posição: {1, 8, 7, 1, 6}
+7 na quinta posição: {1, 8, 7, 6, 1}
+
+Assim, temos que o número de tentativas vai ser (1.8.7.6.1).4 = (336).4 = 1344 = Alternativa (B).
+
+Ex 05.
+
+Haha, belo desvio de atenção.
+
+De 30 hospitais, terão de ser escolhidos 3.
+
+An,p = n!/(n-p)!
+
+A30,3 = 30!/(27)!
+
+A30,3 = 30.29.28.27!/27! = 30.29.28 = 24360.
