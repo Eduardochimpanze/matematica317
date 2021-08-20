@@ -2,17 +2,17 @@ Tarefa básica - Permutação - Eduardo Lemos - CTII 317
 
 01.
 
-Permutando as 8 pessoas (ignorando a proposta do exercício por enquanto), encontramos:
+Permutando as 8 pessoas, encontramos:
 
 8! = 40.320
-Seguramos Antonio e Pedro, considerando os dois como uma pessoa só, e permutamos as outras 6:
+Ignorando Pedro e Antônio e os contando como uma pessoa só, permutamos as outras 6 pessoas:
 
 P7 = 7!
 
 5.040
 
 Para cada uma das 5.040 possibilidades, os dois ainda podem trocar de lugar entre si. 
-Então, o número de possibilidades nas quais os dois aparecem juntos é de
+Então, o número de possibilidades nas quais os dois aparecem juntos é:
 
 2.5040 = 10.080
 
@@ -33,7 +33,7 @@ Então, temos as 5 possibilidades da segunda posição e o 5! para trabalharmos 
 
 5! = 120
 
-120 x as 5 possibilidades da segunda posição = 600 = Alternativa D.
+120 x  5 possibilidades da segunda posição = 600 = Alternativa D.
 
 
 03.
