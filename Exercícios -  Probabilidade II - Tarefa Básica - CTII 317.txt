@@ -1,0 +1,174 @@
+Tarefa Básica - Análise Combinatória - Probabilidade II - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+De 5 lâmpadas, temos 3 boas e 2 defeituosas.
+No evento de obter apenas uma delas defeituosa, vamos ter:
+
+Espaço amostral de 60 (5.4.3), por ser:
+A primeira lâmpada, qualquer uma das 5 lâmpadas
+A segunda, qualquer uma das 5 menos a anterior
+E a terceira, qualquer uma das 5 menos as 2 anteriores.
+
+E neste evento, é de 12 (3.2.2), por ser:
+A primeira lâmpada, qualquer uma das 3 boas;
+Na segunda, qualquer uma das 3 boas menos a anterior.
+E na terceira, qualquer uma das 2 defeituosas.
+
+Multiplicando isto por uma permutação de 3 com repetição de 2, temos:
+
+12/60 . 3!/2!
+
+(simplificando 12 e 60...)
+
+1/5 . 3.2!/2! = 1/5 . 3 = 3/5 = Alternativa (B).
+
+Ex 02.
+
+Em 2 dados, teremos um espaço amostral de 6 lados para cada = 6.6 = 36.
+
+O evento que pode trazer a soma 3 ou 6 teria de ser:
+
+A(Soma 3) = {1+2, 2+1}
+e
+B(Soma 6) = {1+5, 2+4, 3+3, 4+2, 5+1}
+
+(De cara, já se sabe que é impossível os números que juntos formam 3, formem 6 na mesma união desses algarismos, então A ∩ B é uma intersecção vazia.)
+
+P(A U B) = P(A) + P(B) - P(A ∩ B)
+
+P(A) = 2/36
+
+P(B) = 5/36
+
+P(A ∩ B) = 0
+
+P(A U B) = 2/36 + 5/36 = 7/36 = Alternativa (C).
+
+Ex 03.
+
+P(A U B) = P(A) + P(B) - P(A ∩ B)
+
+95% = P(A) = 0,95
+8% = P(B) = 0,08
+100% = P(A U B) = 1,00
+exatamente 110 milhões = P(A ∩ B)
+Assim, temos:
+
+1 = 0,95 + 0,08 - P(A ∩ B)
+
+P(A ∩ B) = 1,03 - 1 = 0,03 = 3%
+
+Ex 04.
+
+Espaço amostral: 10*10 = 100
+
+unidades terminadas em zero:
+
+0*0 = 0*0 = 0 ==> 1 possibilidade
+1*0 = 0*1 = 0 ==> 2 possibilidades
+2*0 = 0*2 = 0 ==> 2 possibilidades
+.......
+.......
+.......
+9*0 = 0*9 = 0 ==> 2 possibilidades, Total = 9*2 + 1 = 19 possibilidades
+
+2*5 = 5*2 = 0 ==> 2 possibilidades
+4*5 = 5*4 = 0 ==> 2 possibilidades
+6*5 = 5*6 = 0 ==> 2 possibilidades
+8*5 = 5*8 = 0 ==> 2 possibilidades, Total: 2 + 2 + 2 + 2 = 8
+
+Total: 19 + 8 = 27 unidades terminadas em zero ===> 27/100
+
+
+Probabilidade do produto cujo algarismo das unidades não é zero:
+
+P(complementar) = 1 - 27/100
+
+P = (100 - 27)/100
+P = 73/100
+P = 0,73
+P = 73%
+
+Ex 05.
+
+Espaço amostral de 10!.
+Temos, na estante, 4 elementos diferentes, A,B,C e D, sendo D como trataremos os 7 livros de economia, e A, B e C os outros livros.
+Teremos uma permutação de 4 para saber como eles estarão dispostos (ABCD, ACBD, DABC, etc...)
+Teremos também uma permutação de 7 para saber como estarão dispostos os livros de economia entre si.
+
+Sendo assim, a probabilidade de que os 7 livros de economia fiquem juntos é de:
+
+4!7!/10!
+
+4.3.2.1.7!/10.9.8.7!
+
+4.3.2/10.9.8 = 1/5.3.4 = 1/30 = Alternativa (C).
+
+Ex 06.
+
+ores possíveis 0 e1.
+Os lados do primeiro triângulo a, b, c
+Os lados do segundo triângulo d, e, f
+No total são 23 opções para colorir três lados de um triângulo. São possíveis 8x8 pares de triângulos ou 64 pares.
+
+Serão equivalentes se:
+i) (cor a = cor d) e (cor b = cor e) e (cor c = cor f) ou
+a1, b1, c1 e d1, e1, f1
+a1, b1, c0 e d1, e1, f0
+a1, b0, c1 e d1, e0, f1
+a1, b0, c0 e d1, e0, f0
+a0, b1, c1 e d0, e1, f1
+a0, b1, c0 e d0, e1, f0
+a0, b0, c1 e d0, e0, f1
+a0, b0, c0 e d0, e0, f0
+são 2 elevado ao cubo possibilidades = 8 pares de triângulos
+
+ii)(cor a = cor e) e (cor b = cor f) e (cor c = cor a).
+Além dos listados no caso 1, também são equivalentes:
+a1, b1, c0 e d0, e1, f1
+a1, b0, c1 e d1, e1, f0
+a1, b0, c0 e d0, e1, f0
+a0, b1, c1 e d1, e0, f1
+a0, b1, c0 e d0, e1, f0
+a0, b0, c1 e d0, e0, f1
+ou seja, são mais 8 pares, como uma derivação do caso i, no qual o segundo grupo sofreu um arranjo circular. Como 111 e 000 são inaviantes por arranjo circular, foram excluídos da contagem senão seria duplicidade com o caso i.
+Total de pares equivalentes novos: 6
+iii)(cor a = cor f) e (cor b = cor d) e (cor c = cor e)
+a1, b1, c0 e d1, e0, f1
+a1, b0, c1 e d0, e1, f1
+a1, b0, c0 e d0, e0, f1
+a0, b1, c1 e d1, e1, f0
+a0, b1, c0 e d1, e0, f0
+a0, b0, c1 e d1, e0, f0
+ou seja mais 8 pares, com um segundo arranjo circular do conjunto listado no caso i, excluindo as duplicidades.
+Total de pares equivalentes novos: 6
+
+Temos 8+6+6= 20 pares equivalentes em 64 pares possíveis
+Probabilidade de ser equivalente: 20/64 = 5/16 = Alternativa (D).
+
+Ex 07.
+
+O número de casos possíveis é C(10;2)=45, pois há 10 dias e, assim, o nº de maneiras de escolha de dois desses dez dias para comprar e vender os dólares é igual ao nº de combinações, dez, dois a dois.
+O número de casos favoráveis é:
+-Se comprou dia 5, pode ter vendido nos dias 6,7,11,12 ou 14 -5 casos;
+-Se comprou no dia 10, pode ter vendido nos dias 11,12 ou 14 -3 casos;
+-Se comprou no dia 13 só pode ter vendido dia 14 - 1 caso.
+Total de casos favoráveis:5+3+1=9.
+Então, P = 9/45 = 1/5 = Alternativa (C).
+
+Ex 08.
+
+Há 9 números. 
+Para que a soma seja 5 em duas rodadas, os resultados deverão ser: (3)(2) ou (2)(3). 
+Calculando a probabilidade, temos:
+
+n(A)/n(S) = 2/9 = Alternativa (D).
+
+Ex 09.
+
+C(6,3) = 6.5.4/3.2.1 = 120/6 = 20
+
+6 vértices formam 12 triângulos
+
+P = 12/20 = 3/5 = Alternativa (C).
