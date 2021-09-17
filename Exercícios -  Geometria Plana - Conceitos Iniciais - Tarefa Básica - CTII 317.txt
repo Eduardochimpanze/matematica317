@@ -1,0 +1,76 @@
+Tarefa Básica - Geometria Plana - Conceitos Iniciais - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Sendo x o suplementar ângular do correspondente de 60° na linha r (logo, congruente e também igual a 60°), podemos perceber que:
+
+x + 60 = 180
+
+x = 180 - 60 = 120 = Alternativa (C).
+
+Ex 02.
+
+*No PDF, segundo link*
+
+Ex 03.
+
+Percebendo que a e 2a são colaterais externos (logo, suplementares) e que x e a formam um ângulo raso, temos que:
+
+2a + a = 180
+
+3a = 180
+
+a = 180/3 = 60
+
+x + a = 180
+
+x + 60 = 180
+
+x = 180 - 60 = 120° = Alternativa (D).
+
+Ex 04.
+
+*No PDF, segundo link*
+
+Ex 05.
+
+x = (180-x).5/4
+
+x =  180.5/4 - 5x/4
+
+x + 5x/4 = 900/4
+
+9x/4 = 225
+
+x/4 = 225.4
+
+x = 900/9 = 100° = Alternativa (A).
+
+Ex 06.
+
+x = (90-x)/2
+
+x = 45 - x/2
+
+x + x/2 = 45
+
+3x/2 = 45
+
+x = 45.2/3 = 90/3 = 30° = Alternativa (A).
+
+Ex 07.
+
+3(90-x) = (180-x)/3
+
+270 - 3x = 60 - x/3
+
+270 - 60 = 3x - x/3
+
+210 = 9x/3 - x/3
+
+8x = 210.3
+
+x = 630/8 = 78° com resto de 6°, que equivale aos minutos:
+
+1° = 60'
+6° = 6.60' = 360', dividido por 8 = 45', logo, X = 78°45' = Alternativa (E).
