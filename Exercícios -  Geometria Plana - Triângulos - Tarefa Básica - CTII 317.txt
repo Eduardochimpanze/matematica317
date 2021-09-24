@@ -1,0 +1,95 @@
+Tarefa Básica - Geometria Plana - Triângulos - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Tendo as informações de que:
+1.Sendo um ângulo externo delimitado pelas mesmas retas que formam o ângulo interno, teremos que ambos são iguais;
+2. x, na figura, forma 180° com seu ângulo interno;
+Podemos obter:
+
+180-x + 60 + 50 = 180
+
+-x = 180 - 180 - 110
+
+-x = -110
+
+x = 110 = Alternativa (C).
+
+
+Ex 02.
+
+Â + B + C = 180
+
+3x + 4x + 5x = 180
+
+12x = 180
+
+x = 180/12 = 15° = Alternativa (E).
+
+Ex 03.
+
+Sendo Â = 40°, temos que:
+
+A + B + C = 180
+
+B + C = 180 - 40
+
+B + C = 140°.
+
+Se um ângulo com bissetriz traçada tem a metade do seu valor original, teremos que:
+
+I + (B+C)/2 = 180
+
+I + 140/2 = 180
+
+Î = 180 - 70 = 110° = Alternativa (D).
+
+Ex 04.
+
+Utilizando a condição de existência, temos que BD(x) deve ser:
+
+No triângulo ABD:
+
+|2-3|<x<2+3
+
+1 < x < 5
+
+No triângulo CBD:
+
+|2-5|<x<2+5
+
+3 < x < 7
+
+Utilizando o máximo do 'menor que x' e o mínimo do 'maior que x', temos:
+
+3 < x < 5 = 4 = Alternativa (E).
+
+Ex 05.
+
+Com a condição de existência, temos que um lado de triângulo deve ser sempre menor que a soma dos outros 2, sendo assim:
+
+30<x+y;
+
+18<x+z;
+
+16<y+z;
+
+Somando as equações, teremos:
+
+(64< 2x + 2y + 2z) : 2
+
+32 < x + y + z
+
+Já que a soma deve ser maior que 32, a única resposta possível é a Alternativa (E), 33.
+
+Ex 06.
+
+
+
+Ex 07.
+
+
+Ex 08.
+
+
+Ex 09.
