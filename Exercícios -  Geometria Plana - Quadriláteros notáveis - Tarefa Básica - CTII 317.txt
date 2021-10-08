@@ -1,0 +1,100 @@
+Tarefa Básica - Geometria Plana - Quadriláteros notáveis - Teorema de Tales e Teorema da Bissetriz Interna - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Antes de descobrir o ângulo C^DA, precisamos fazer certas observações.
+
+Percebendo que B e A fazem parte do quadrado ABDE (90° para todos os ângulos) e do triângulo equilátero ABC (60° para todos os ângulos), o ângulo D^BC e DÂC, que "juntam" os dois, tem 60 + 90 = 150°. Percebendo também que o triângulo BDC é isósceles, sabemos que os ângulos B^DC e B^CD tem a mesma medida. Assim, teremos:
+
+D^BC + B^DC + B^CD = 180
+150 + x + x = 180
+
+2x = 180 - 150
+
+x = 30/2 = 15°
+
+Ora, se ^D sozinho vale 90° por fazer parte de ABDE, e a reta AD, de ADC, por ser uma diagonal e consequentemente, uma bissetriz, faz com que A^DE valha 45°, e, que B^DC vale 15°, só resta calcular C^DA.
+
+x + 45 + 15 = 90
+
+x = 90 - 60
+
+x = 30° = Alternativa (D).
+
+
+Ex 02.
+
+*https://prnt.sc/1v8zioe*
+
+Ex 03.
+
+Observando-se que A faz parte de ABE (60°) e ABCD (90°), podemos saber que o ângulo DÂE vale 90 - 60 = 30°. Além disso, podemos saber que, como ABE e ABCD são equiláteros, AE = AD, logo, ADE = isósceles. Sendo assim, temos que DÊA = A^DE.
+
+DÂE + DÊA + A^DE = 180
+
+30 + x + x = 180
+
+2x = 180 - 30
+
+x = 150/2 = 75°
+
+Ora, se ^D sozinho vale 90° por fazer parte de ABCD, e a reta BD, de ABCD e BED, por ser uma diagonal e consequentemente, uma bissetriz, faz com que B^DC e B^DA valham 45°, e, que A^DE vale 75°, só resta calcular B^DE.
+
+x + 45 = 75
+
+x = 75 - 45 = 30° = Alternativa (E).
+
+Ex 04.
+
+Se para 4 cm de AB eu tenho 8 cm de A'B', eu tenho quantos cm de B'C' para BC?
+
+4 - 8
+2 - x
+
+4x = 8.2
+
+x = 16/4 = 4 cm.
+
+Ex 05.
+
+(A)  todo quadrado é um losango = Correta, todo quadrado é um losango por ter os 4 lados congruentes.
+
+(B) existem retângulos que não são losangos = Correta, retângulos não necessariamente tem os 4 lados congruentes, mas sim os 4 ângulos retos.
+
+(C) todo paralelogramo é um quadrilátero = Correta, todo paralelogramo, por ter 4 lados é, por definição, um quadrilátero.
+
+(D) todo quadrado é um retângulo = Correta, todo quadrado tem os 4 ângulos retos, além de 4 lados congruentes.
+
+(E) (E) um losango pode não ser um paralelogramo = Errada, um losango, possuindo 4 lados congruentes, precisa ter, necessariamente, todos os lados opostos paralelos. A condição de lados iguais não existe sem o paralelismo de lados não consecutivos.
+
+Alternativa (E).
+
+
+Ex 06.
+
+IA = 250m 
+IIA = 200m
+
+IB = x+40m
+IIB = x
+
+IA + IIA = A
+250 + 200 = 450 m
+
+IB + IIB = B
+x+40 + x = 2x + 40m
+
+Se para 200m de IIA tenho x de IIB, quantos metros de 2x + 40 de B tenho para 450 de A?
+
+200 - x
+450 - 2x + 40
+
+450.x = 200.(2x + 40)
+450.x = 400x + 8000
+450x - 400x = 8000
+50x = 8000
+x = 8000/50 = 160 m = Alternativa (A).
+
+
+
+
