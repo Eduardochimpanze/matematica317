@@ -1,0 +1,50 @@
+Tarefa Básica - Geometria Plana - Semelhança de Triângulos - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Se para 12 m da sombra do poste eu tenho 0,6 m da sombra do bastão vertical, quantos metros de poste eu tenho para 1 m de bastão?
+
+12 - 0,6
+x  - 1
+
+x.0,6 = 1.12
+
+x = 12/0,6 = 20 m = Alternativa (D).
+
+
+Ex 02.
+
+AB - BD
+
+AC - DE
+
+AB.DE = BD.AC
+
+1.x = BD.3
+
+Como AB = 1 e AD é o lado do quadrado, então BD = 1 - AD. O mesmo ocorre com o outro lado do quadrado, AC = 3 e DE é o lado do quadrado que é igual a AF, então DE = AD. Sendo assim, temos:
+
+1/ 1 - AD = 3/AD
+
+AD = 3(1-AD)
+
+AD = 3 - 3AD
+
+4AD = 3
+
+AD = 3/4 = 0,75 = Alternativa (B).
+
+
+Ex 03.
+
+Percebendo que AHB e CDB são retângulos em H e em D, respectivamente, podemos perceber que são semelhantes, e, logo, proporcionais. AB equivale a BC, BH equivale a BD e AH a CD. Sendo assim, para descobrir AB, temos que:
+
+Se para 8 de CD temos 4 de AH, quanto de AB vamos ter para 10 de BC?
+
+8 - 4
+10 - x
+
+x.8 = 4.10
+
+x = 40/8 = 5 = Alternativa (C).
+
