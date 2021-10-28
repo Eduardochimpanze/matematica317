@@ -1,0 +1,70 @@
+Tarefa Básica - Geometria Plana - Lugar Geométrico e Pontos Notáveis do Triângulo - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+ângulo DBA = 60°
+
+ângulo OBA = 30°
+
+Assim:
+
+sen 30° = 1/OB
+
+1/2 = 1/OB => OB = 2 = Alternativa (D).
+
+Ex 02.
+
+Se o ângulo NT^P forma, com o ângulo de 50°, um ângulo raso, podemos dizer que seu valor é de 180 - 50 = 130°. Também sabendo que NT = PT e MN = MP, formando triângulos isósceles, podemos descobrir que os ângulos N^ e P^ são iguais. Assim:
+
+NTP + PNT + PTN = 180
+
+130 + x + x = 180
+
+2x = 180 - 130
+
+x = 50 / 2 = 25°
+
+Se NT e NP são bissetrizes, seus valores angulares originais são o dobro do que são em NTP, logo, 50°. Sendo assim apenas resta calcular o ângulo α.
+
+ α + 50 + 50 = 180
+
+ α = 180 - 100 = 80° = Alternativa (E).
+
+Ex 03.
+
+Sabendo que um polígono é inscrito quando todos os seus vértices são pontos da circunferência, e o triângulo há de passar pelo centro do círculo, e que, para ser triângulo, precisa de só 3 lados, só haverão situações como nas figura: https://prnt.sc/1xmzmv7. Sendo assim, a única possibilidade é o triângulo ser retângulo, correspondente à Alternativa (B).
+
+Ex 04.
+
+sen 30° = R/h 
+
+1/2 = 3/16/h
+
+1/1 = 3/8/h
+
+h = 3/8
+
+h + R = 1/2 + x
+
+3/8 + 3/18 = 1/2 + x
+
+6+3/ 16 = 1/2 + x
+
+9/16 - 1/2 = x
+
+x = 9/16 - 8/16 
+
+x = 1/16 = Alternativa (E).
+
+Ex 05.
+
+a) Se a mediana é metade do diâmetro do círculo (imaginário ou não) em que está inscrita, e temos que este diâmetro é sempre a hipotenusa, temos que m = h/2 = 20/2 = 10 cm.
+
+b) Bissetriz de 90° = 45 => 45 - 20 = 25°
+
+Ex 06.
+
+A^PB = 60º ---> Triângulo equilátero -----> O^PA + O^PB = 30º
+
+No triângulo retângulo OAP ----> senO^PA = OA/PO ----> 1/2 = r/PO ----> PO = 2r = Alternativa (C).
+
