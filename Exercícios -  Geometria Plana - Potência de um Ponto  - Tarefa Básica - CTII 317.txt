@@ -1,0 +1,72 @@
+Tarefa Básica - Geometria Plana - Potência de um Ponto - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Sabendo que:
+
+AB  = 8 cm,
+
+AC = CD = x
+
+e AD = (AC + CD), temos:
+
+AB² = AC . AD
+
+8² = x (x + x)
+
+64  = x . 2 . x
+
+64 = 2 . x²
+
+64 / 2 = x²
+
+x² = 32
+
+x = √32
+
+x = 4√2 = Alternativa (E).
+
+Ex 02.
+
+Condição: PA = 3PC => .1
+  pro teorema de secante e tangente temos que:
+  
+PB/PA=PA/PC⇒PA²=PB x PC => .2
+substituindo .1 em .2, temos:
+    (3PC)²=PB x PC
+     9PC²=PBxPC                   
+       9PC=PB
+       PB=9PC = Alternativa (B).
+
+Ex 03.
+
+6² = x . (5+x) => x²+5x-36=0
+
+x=4 ou x=-9 => x=4 = Alternativa (E).
+
+Ex 04.
+
+AE . EB = 3
+
+CE = ED
+CE.ED = AE.EB = 3
+CE² = 3
+CE = √3
+
+CD = CE + ED = √3 + √3 = 2√3= Alternativa (B).
+
+Ex 05.
+
+Sendo r o raio, temos:
+
+AE . AD = AC . AB
+
+4 . (4 + 2r) = 8 . (8 + 10)
+
+16 + 8r = 144
+
+8r = 128
+
+r = 16
+
+Logo o perímetro do AOC é igual a 20 + 16 + 18 = 54 cm.
