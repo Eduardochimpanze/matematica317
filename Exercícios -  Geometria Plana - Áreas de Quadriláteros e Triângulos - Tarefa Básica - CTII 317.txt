@@ -1,0 +1,133 @@
+Tarefa Básica - Geometria Plana - Áreas de Quadriláteros e Triângulos - Eduardo Lemos - CTII 317
+
+Ex 01.
+
+Sabendo que a área A da sala corresponde à área da peça de cerâmica (ou seus lados ao quadrado, já que A = l.l) vezes 400, teremos:
+
+A = l² . 400
+
+36 = l² . 400
+
+l² = 36/400
+
+l = 6/20 = 3/10 = 0,3 m
+
+Se já temos o lado da peça de cerâmica, só nos resta calcular sua área e perímetro.
+
+a) A = l.l => A = 0,3.0,3 = 0,09 m²
+b) Perímetro de um quadrado = 4l = 0.3 . 4 = 1,2m
+
+Ex 02.
+
+Lado do quadrado original x = Área do quadrado original, então, é x²
+
+Se a área do quadrado dobrou, teremos 2x². Sendo assim, seguindo A = l², vamos ter:
+
+l² = A
+
+y² = 2x²
+
+y = √2x²
+
+y = x√2 ou y = √2 x  = Alternativa (D).
+
+Ex 03.
+
+Considerando a hipotenusa do triângulo como a base, sua altura relativa será h, da fórmula da área do triângulo, que já temos. Sendo assim, teremos:
+
+A = b.h/2
+
+15 = 10.h/2
+
+15 = 5.h
+
+h = 15/5 = 3 = Alternativa (D).
+
+Ex 04.
+
+Exercício no PDF.
+
+
+Ex 05.
+
+Exercício no PDF.
+
+
+Ex 06.
+
+Exercício no PDF.
+
+
+Ex 07.
+
+Área de Trapézios = (B+b).h / 2
+
+36 = (2x + x) . h / 2
+
+36.2 = (3x) . h
+
+72 = 3x . h
+
+3x.h = 72
+
+x.h = 72/3
+
+x.h = 24. Sabendo x é CD, logo, a base do retângulo e h a altura, 24 é a área do retângulo CDEF, o que configura a Alternativa (E).
+
+Ex 08.
+
+Losango FGHJ:
+
+Sendo que a diagonal maior, FH, corresponde a CD = 6 cm, e, a diagonal menor, GJ, corresponde a DE = 2 cm, temos que sua área será:
+
+A = D.d/2
+
+A = 6.2/2 = 12/2 = 6 cm
+
+Triângulo ABJ
+
+Se a base AB tem 6 cm e sua altura correspondente tem o mesmo comprimento de BI ou AE, de 4 cm, teremos:
+
+A = 6.4/2 = 24/2 = 12 cm
+
+Sendo assim, a razão entre FGHJ e ABJ é de:
+
+12/6 = 1/2 = Alternativa (D).
+
+Ex 09.
+
+Sejam a e b as medidas da base e da altura do retângulo, respectivamente. A área do quadrilátero destacado é igual à área do retângulo menos a área de dois triângulos retângulos, um de catetos 3a/4 e b e o outro de catetos a e b/3
+
+Assim, a área destacada é igual a:
+
+a.b - 1/2.3a/4.b - 1/2.a.b/3 = 11ab/24 = 11.48/24 = 11.2 = 22 = Alternativa (E).
+
+Ex 10.
+
+Estando D^ e B^ em 90° e Â sendo compartilhado pelos dois triângulos, sabemos que ADE e ABC são semelhantes. - AD/AB - AE/AC - BC/DE
+
+Temos também que (AD/AB)² = Área de ADE/Área de ABC, ou seja:
+
+(AD/8)² = 1/2ABC/ABC
+
+AD²/64 = 1/2
+
+2AD² = 64
+
+AD² = 32
+
+AD = √32 = √16.2 = 4√2 = Alternativa (A).
+
+Ex 11.
+
+Exercício no PDF.
+
+
+
+
+
+
+
+
+
+
